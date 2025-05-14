@@ -1,0 +1,22 @@
+{
+  "name": "wfe_artes",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "dev": "servor --reload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LourencoDB/WFE_artes.git"
+  },
+  "author": "LourencoDB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LourencoDB/WFE_artes/issues"
+  },
+  "homepage": "https://github.com/LourencoDB/WFE_artes#readme",
+  "description": "",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
